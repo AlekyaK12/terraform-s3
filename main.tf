@@ -42,4 +42,7 @@ resource "aws_s3_bucket_policy" "public_policy" {
     ]
   })
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 287e03ad67c406f69757f01c03976d5ead0e285e
